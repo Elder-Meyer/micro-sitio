@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63626485.css",
+    "main.js": "/static/js/main.74a934a2.js",
+    "static/media/PresentacionMicroSitio.jpg": "/static/media/PresentacionMicroSitio.4b14ae4b705545110218.jpg",
+    "static/media/logo.png": "/static/media/logo.253d1238099c3a5ab01f.png",
+    "index.html": "/index.html",
+    "main.63626485.css.map": "/static/css/main.63626485.css.map",
+    "main.74a934a2.js.map": "/static/js/main.74a934a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63626485.css",
+    "static/js/main.74a934a2.js"
+  ]
+}
